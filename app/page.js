@@ -57,7 +57,6 @@ export default function Home() {
           <textarea className={styles.textAREA}></textarea>
         </div>
 
-        <button>HIIIII</button>
 
  
 
